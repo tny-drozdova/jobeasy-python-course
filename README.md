@@ -1,4 +1,4 @@
-# JobEasy Python course
+# Python course
 
 To check your homework: 
 
